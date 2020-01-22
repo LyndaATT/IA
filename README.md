@@ -1,3 +1,3 @@
 # Machine-Learning-Java
-Two projects done in AI : Perceptron(Multi Perceptron) and Clustering 
+Two projects done in AI : Perceptron(Multi Perceptron) and Clustering  \n
 TPS
